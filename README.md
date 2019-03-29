@@ -9,15 +9,15 @@ subreddit from reddit, and the app will fetch and display GIFs from that subredd
 =========================================
 
 How to fetch data from a 3rd party API
-How to store and retrieve data locally
-How to use and manipulate Observables
-How to use conditionals in templates
-How to make use of events
-How to display and interact with videos
-How to integrate Capacitor functionality
+</br>How to store and retrieve data locally
+</br>How to use and manipulate Observables
+</br>How to use conditionals in templates
+</br>How to make use of events
+</br>How to display and interact with videos
+</br>How to integrate Capacitor functionality
 
 Thanks
-Happy coding!
-JTPL code library
+</br>Happy coding!
+
 
 
