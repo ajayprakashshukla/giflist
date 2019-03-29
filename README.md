@@ -1,12 +1,12 @@
 # GifList 
 
-# About Project 
-===============
+## About Project 
+
 Giflist is a pretty simple application, the general idea is that a user can enter in any
 subreddit from reddit, and the app will fetch and display GIFs from that subreddit.
 
-# Code base contains following features: 
-=========================================
+## Code base contains following features: 
+
 
 How to fetch data from a 3rd party API
 </br>How to store and retrieve data locally
